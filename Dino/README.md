@@ -12,7 +12,7 @@ Dino Run is simple modified version of Google Chrome dino made with python and p
 
 ## How to Download
 
-Download this project from here [Download Dino Run](https://downgit.github.io/#/home?url=https://github.com/pyGuru123/Python-Games/tree/master/Dino)
+Download this project from here [Download Dino Run](https://downgit.github.io/#/home?url=https://github.com/Kyiewi/DINO-GAME-/tree/main/Dino)
 
 ## Requirements
 
@@ -43,9 +43,3 @@ This game has few cheatcodes which you can try. Just type the cheatcode anytime 
 * SPEEDUP -> increase speed by 2
 
 cheatcodes are case-insensitive
-
-## Contributing
-
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
-
-Please make sure to update tests as appropriate.
